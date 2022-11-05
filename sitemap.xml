@@ -2,67 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.example.com/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/about/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/characters/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.example.com/ideas/</loc>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/locations/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/locations/allathrione/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/locations/farrathia/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/locations/mtcoronet/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/locations/overmountain/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/locations/shiv/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/locations/sumeria/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/pcs/jack/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/pcs/marni/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.example.com/pcs/winnie/</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-11-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
